@@ -1,0 +1,119 @@
+[
+      {
+        "District_Id": "1",
+        "District_Name": "منطقة الرياض",
+        "District_Area": "153915000.00",
+        "Symbol_Id": "01",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:51:41.453",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "2",
+        "District_Name": "مكة المكرمة",
+        "District_Area": "195653000.00",
+        "Symbol_Id": "02",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:52:00.720",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "3",
+        "District_Name": "المدينة المنورة",
+        "District_Area": "54118000.00",
+        "Symbol_Id": "03",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:52:18.047",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "4",
+        "District_Name": "القصيم",
+        "District_Area": "20792000.00",
+        "Symbol_Id": "04",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:52:38.877",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "5",
+        "District_Name": "منطقة عسير",
+        "District_Area": "57227000.00",
+        "Symbol_Id": "06",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:53:02.923",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "6",
+        "District_Name": "منطقة تبوك",
+        "District_Area": "28492000.00",
+        "Symbol_Id": "07",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:53:35.203",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "7",
+        "District_Name": "منطقة حائل",
+        "District_Area": "13203000.00",
+        "Symbol_Id": "08",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:54:01.517",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "8",
+        "District_Name": "منطقة جازان",
+        "District_Area": "49496000.00",
+        "Symbol_Id": "10",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:54:21.907",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "9",
+        "District_Name": "منطقة نجران",
+        "District_Area": "13633000.00",
+        "Symbol_Id": "11",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:55:26.953",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "10",
+        "District_Name": "منطقة الباحة",
+        "District_Area": "10207000.00",
+        "Symbol_Id": "12",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:55:46.470",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "11",
+        "District_Name": "منطقة الجوف",
+        "District_Area": "7453000.00",
+        "Symbol_Id": "13",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:56:07.453",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "12",
+        "District_Name": "المنطقة الشرقية",
+        "District_Area": "144629000.00",
+        "Symbol_Id": "05",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:56:26.830",
+        "Modified_by": "GeneralServices.UserObject"
+      },
+      {
+        "District_Id": "13",
+        "District_Name": "منطقة الحدود الشمالية",
+        "District_Area": "5749000.00",
+        "Symbol_Id": "09",
+        "Logic_Delt": "0",
+        "Modified_date": "2016-05-03T07:57:03.157",
+        "Modified_by": "GeneralServices.UserObject"
+      }
+    ]
